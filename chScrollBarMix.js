@@ -1,4 +1,4 @@
-//所有 開跟鎖 scrollBar功能
+//所有 開跟鎖 scrollBar功能(123在VS code 上測試commit push)
 var chScrollBarMix = {
     checkDevice: function(){
         /*檢查是否為移動裝置*/
