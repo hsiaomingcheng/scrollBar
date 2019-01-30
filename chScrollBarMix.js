@@ -1,4 +1,4 @@
-//所有 開跟鎖 scrollBar功能
+//所有 開跟鎖 scrollBar功能(123連接vs code path)
 var chScrollBarMix = {
     checkDevice: function(){
         /*檢查是否為移動裝置*/
